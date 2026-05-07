@@ -1,3 +1,16 @@
+
+<img width="1536" height="1024" alt="Aws high available Web application" src="https://github.com/user-attachments/assets/6035a75f-d61c-4460-918a-468e5c2725f7" />
+
+
+
+
+
+
+
+
+
+
+
 # aws-alb-private-ec2-architecture
 
 📌 Project Overview
